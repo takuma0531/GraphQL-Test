@@ -1,0 +1,16 @@
+{
+  // 推奨
+  "recommendations": [
+    // フォーマッター
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    // リンター
+    "dbaeumer.vscode-eslint",
+    // Docker
+    "ms-azuretools.vscode-docker",
+    // REST Client
+    "humao.rest-client"
+  ],
+  // 非推奨
+  "unwantedRecommendations": []
+}
